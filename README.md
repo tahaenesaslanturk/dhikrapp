@@ -2,7 +2,7 @@
 
 Dhikr app is an basic app which you use it when you do not have a dhikr machine.
 
-## Screen Shots
+## Screenshots
 
 ![Image](./Screenshot_1.jpg)
 ![Image](./Screenshot_2.jpg)
